@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Motor Fault Diagnosis with Hybrid (1D+2D) Fusion: Reassigned Spectrogram + Statistical Features"
+type: software
+authors:
+  - given-names: "Melih Kadir"
+    family-names: "Makara"
+repository-code: "https://github.com/titusharper/motor-fault-hybrid-model"
+abstract: >
+  A Hybrid Machine Learning Model based on Start-Up Stator Current and
+  High-Resolution Time-Frequency Images for Mechanical Fault Detection and
+  Classification in Induction Motors 
+keywords:
+  - induction motor
+  - start-up stator current
+  - motor fault diagnosis
+  - MCSA
+  - reassigned spectrogram
+  - time-frequency analysis
+  - FiLM
+  - hybrid fusion
+license: "MIT"
