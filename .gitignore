@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project: do NOT commit data or outputs
+data/
+results/
+checkpoints/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+# Large images (optional; uncomment if you generate many)
+# *.png
+# *.jpg
