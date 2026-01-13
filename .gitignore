@@ -22,7 +22,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Project: do NOT commit data or outputs
+# Project
 data/
 results/
 checkpoints/
@@ -32,6 +32,6 @@ outputs/
 *.pth
 *.ckpt
 
-# Large images (optional; uncomment if you generate many)
+# Large images
 # *.png
 # *.jpg
