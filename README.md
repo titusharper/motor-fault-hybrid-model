@@ -71,10 +71,15 @@ Model comparison (same dataset):
 ## Results Gallery
 
 ## Data Visualizations
+## Healthy Induction Motor Start-up Current Data
 ![Fig. 1 - Start-up Healthy Induction Motor Data](results/figures/fig8_healthy.png)
+## Imbalance Induction Motor Start-up Current Data
 ![Fig. 2 - Start-up Imbalance Induction Motor Data](results/figures/fig9_imbalance.png)
+## Looseness Induction Motor Start-up Current Data
 ![Fig. 3 - Start-up Loosenees Induction Motor Data](results/figures/fig10_looseness.png)
+## Misalignment Induction Motor Start-up Current Data
 ![Fig. 4 - Start-up Misalignment Induction Motor Data](results/figures/fig11_misalignment.png)
+## STFT-based Reassigned Spectrograms of Start-up Stator Current Signals
 ![Fig. 5 - STFT-based Reassigned Spectrograms of Start-up Stator Current Signals](results/figures/fig7_spectrograms.png)
 
 ### Pipeline Overview 
