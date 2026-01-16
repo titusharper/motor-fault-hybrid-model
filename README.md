@@ -70,13 +70,20 @@ Model comparison (same dataset):
 
 ## Results Gallery
 
+## Data Visualizations
+![Fig. 1 - Start-up Healthy Induction Motor Data](results/figures/fig8_healthy.png)
+![Fig. 2 - Start-up Imbalance Induction Motor Data](results/figures/fig9_imbalance.png)
+![Fig. 3 - Start-up Loosenees Induction Motor Data](results/figures/fig10_looseness.png)
+![Fig. 4 - Start-up Misalignment Induction Motor Data](results/figures/fig11_misalignment.png)
+![Fig. 5 - STFT-based Reassigned Spectrograms of Start-up Stator Current Signals](results/figures/fig7_spectrograms.png)
+
 ### Pipeline Overview 
-![Fig. 1 - Proposed hybrid pipeline](results/figures/fig6_pipeline.png)
+![Fig. 6 - Proposed Hybrid Pipeline](results/figures/fig6_pipeline.png)
 
 ### Evaluation Visualizations
-![Fig. 2 - Confusion Matrix](results/figures/fig2_confusion_matrix.png)
-![Fig. 3 - ROC Curves](results/figures/fig3_roc_curves.png)
-![Fig. 4 - Learning Curves](results/figures/fig4_learning_curves.png)
+![Fig. 7 - Confusion Matrix](results/figures/fig2_confusion_matrix.png)
+![Fig. 8 - ROC Curves](results/figures/fig3_roc_curves.png)
+![Fig. 9 - Learning Curves](results/figures/fig4_learning_curves.png)
 
 ---
 
