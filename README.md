@@ -68,6 +68,24 @@ Model comparison (same dataset):
 
 ---
 
+## Results Gallery
+
+### Pipeline Overview 
+![Fig. 1 - Proposed hybrid pipeline](results/figures/fig6_pipeline.png)
+
+### Evaluation Visualizations
+
+**Confusion Matrix (Test Set)**
+![Fig. 2 - Confusion Matrix](results/figures/fig2_confusion_matrix.png)
+
+**ROC Curves (One-vs-Rest)**
+![Fig. 3 - ROC Curves](results/figures/fig3_roc_curves.png)
+
+**Learning Curves (Train vs Validation)**
+![Fig. 4 - Learning Curves](results/figures/fig4_learning_curves.png)
+
+---
+
 ## Data Note (Ethics)
 Raw current measurements are not included in this repository. The paper notes that the source measurements are available via Korea University’s public database; please follow the link provided in the paper appendix. :contentReference[oaicite:14]{index=14}
 
