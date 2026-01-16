@@ -5,7 +5,8 @@ Hybrid fault detection and classification for induction motors using **start-up 
 - Fusion via **FiLM (Feature-wise Linear Modulation)**
 
 This repository is the codebase of our ELECO 2025 paper:
-**“A Hybrid Machine Learning Model based on Start-Up Stator Current and High-Resolution Time-Frequency Images for Mechanical Fault Detection and Classification in Induction Motors.”** 
+**“A Hybrid Machine Learning Model based on Start-Up Stator Current and High-Resolution Time-Frequency Images for Mechanical Fault Detection and Classification in Induction Motors.”**
+https://www.eleco.org.tr/ELECO2025/Eleco2025-Papers/78.pdf
 
 ---
 
