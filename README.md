@@ -7,8 +7,6 @@ Hybrid fault detection and classification for induction motors using **start-up 
 This repository is the codebase of our ELECO 2025 paper:
 **“A Hybrid Machine Learning Model based on Start-Up Stator Current and High-Resolution Time-Frequency Images for Mechanical Fault Detection and Classification in Induction Motors.”** 
 
-> “The hybrid model reaches 80.8% classification accuracy, outperforming single-modality CNNs.” 
-
 ---
 
 ## Highlights
