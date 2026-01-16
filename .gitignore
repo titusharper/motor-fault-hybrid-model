@@ -24,7 +24,9 @@ Thumbs.db
 
 # Project
 data/
-results/
+results/*
+!results/figures/
+!results/figures/*
 checkpoints/
 runs/
 outputs/
